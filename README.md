@@ -9,18 +9,17 @@ By employing this integrated approach, we can effectively monitor the weight of 
 
 Steps :
 
-Intall Arduino IDE on your system
-Configure Arduino IDE set board type, baurd rate, COM port, etc.
-Connect the sensors with micro-controller, according to the pins defined
-Check & upload the code in micro-controller
-Check the output on serial monitor
-Create an acount on ThingsSpeak
-Create a channel & generate API key
-Enter all the details of ThingSpeak in the arduino code
-Run the code again
-Switch on the wifi & let the micro-controller connect to the wifi
-Real-time data will be displayed on ThingSpeak & can be accessed anywhere through the link
-Data pre-processing & data analysis portion is not provided here & it would be provide further.
-
+1)Intall Arduino IDE on your system
+2)Configure Arduino IDE set board type, baurd rate, COM port, etc.
+3)Connect the sensors with micro-controller, according to the pins defined
+4)Check & upload the code in micro-controller
+5)Check the output on serial monitor
+6)Create an acount on ThingsSpeak
+7)Create a channel & generate API key
+8)Enter all the details of ThingSpeak in the arduino code
+9)Run the code again
+10)Switch on the wifi & let the micro-controller connect to the wifi
+11)Real-time data will be displayed on ThingSpeak & can be accessed anywhere through the link
+12)Data pre-processing & data analysis portion is not provided here & it would be provide further.
 
 -- Thank You --
